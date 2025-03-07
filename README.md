@@ -4,7 +4,9 @@
 
 
 Read my thoughts on substack!
-<iframe src="https://draag0n.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+[<a href="https://draag0n.substack.com/" target="_blank" style="background-color: #FF6719; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">
+  Subscribe on Substack
+</a>]()
 <!--
 **cernoh/cernoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
