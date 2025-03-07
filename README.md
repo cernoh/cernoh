@@ -1,6 +1,10 @@
 ### Hi!! I'm a cyber security student hoping to get a job in the field and hopefully do some good ٩(^ᗜ^ )و ´-
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81BL3DZ)
+
+
+Read my thoughts on substack!
+<iframe src="https://draag0n.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 <!--
 **cernoh/cernoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
