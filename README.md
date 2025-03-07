@@ -1,5 +1,6 @@
 ### Hi!! I'm a cyber security student hoping to get a job in the field and hopefully do some good ٩(^ᗜ^ )و ´-
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V81BL3DZ)
 <!--
 **cernoh/cernoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
